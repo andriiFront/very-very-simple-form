@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/very-very-simple-form/static/css/main.e6c13ad2.css",
+    "main.js": "/very-very-simple-form/static/js/main.76c043e4.js",
+    "index.html": "/very-very-simple-form/index.html",
+    "main.e6c13ad2.css.map": "/very-very-simple-form/static/css/main.e6c13ad2.css.map",
+    "main.76c043e4.js.map": "/very-very-simple-form/static/js/main.76c043e4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.76c043e4.js"
+  ]
+}
