@@ -1,4 +1,4 @@
-# ArticleManager App
+# Very symple form
 TAP **[PREVIEW LINK](https://andriifront.github.io/very-very-simple-form/)** TO SEE DEMO
 
 
